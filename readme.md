@@ -8,4 +8,4 @@ Hi, This is the solution of HackerRank's C language.
 
 ## Screenshots
 
-![Website Screenshot]( )
+![Website Screenshot](https://github.com/kishlayjeet/HackerRank-C-Solutions/blob/main/preview.png?raw=true)
